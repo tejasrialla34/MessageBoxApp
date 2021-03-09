@@ -20,6 +20,6 @@
 <p>Custom Yes</p>
 <img src="output screenshots/custom yes.png">
 <p>Custom Yes To All</p>
-<img src="output screenshots/custom yesttoall.png">
+<img src="output screenshots/custom yestoall.png">
 <p>Warning</p>
 <img src="output screenshots/warning.png">
